@@ -1,0 +1,3 @@
+rootProject.name = 'ios_native_module_test'
+
+include ':app'
