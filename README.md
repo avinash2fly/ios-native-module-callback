@@ -51,13 +51,13 @@ in my example, App.js
 
 #### import Modules
 
-```json
+```javascript
 var MyObjcClass = require('NativeModules').MyObjcClass;
 ```
 
 #### Calling Function and receiving callback
 
-```json
+```javascript
 MyObjcClass.squareMe(num, (error, number) => {
       if (error) {
         console.error(error);
