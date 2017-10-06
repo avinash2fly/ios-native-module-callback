@@ -7,7 +7,7 @@ Native modules callback test project for iOS
 
 ### Create a Header File
 
-in my example MyObjcClass.h
+in my example *-MyObjcClass.h-*
 
 And, insert the following code
 
